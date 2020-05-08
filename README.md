@@ -1,2 +1,2 @@
-# NLP_Project_label
+# NLP_Project
 DSO 560
